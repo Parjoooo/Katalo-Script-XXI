@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Up Coming</name>
+   <tag></tag>
+   <elementGuidId>cb89f295-2ffd-4f13-a824-b147f13900e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[(text() = ' Up Coming' or . = ' Up Coming')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu_nav_bar']/ul[2]/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>98a13e6c-8d93-49a1-80a6-80aaa22e048d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>gui.coming_soon.php?sid=</value>
+      <webElementGuid>ed69e820-198c-4e0b-a365-58433bc7ef0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav_bar-animate</value>
+      <webElementGuid>d5273901-f92e-43d2-830a-b67eacc78f34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Up Coming</value>
+      <webElementGuid>d9fa286e-6a1d-4297-9a18-721629d2aafd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_nav_bar&quot;)/ul[@class=&quot;nav navbar-nav navbar-left&quot;]/li[@class=&quot;nav_bar-animate&quot;]/a[@class=&quot;nav_bar-animate&quot;]</value>
+      <webElementGuid>77ebd93d-47a3-4a29-9bd5-6accb81041f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu_nav_bar']/ul[2]/li[3]/a</value>
+      <webElementGuid>9bdf789d-e0ab-4a50-9660-417f721732e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Up Coming')]</value>
+      <webElementGuid>c702946c-0bee-4e5b-b6e6-0f9e1659c40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Playing in - JAKARTA'])[1]/preceding::a[1]</value>
+      <webElementGuid>0bc87112-8309-4091-ae6f-2f915f28ae13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'gui.coming_soon.php?sid=')]</value>
+      <webElementGuid>723a7955-8e8a-4c99-9d1e-43d156cc07c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[3]/a</value>
+      <webElementGuid>0f080d16-1b2a-44a5-87c2-4c0b63e0b73b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'gui.coming_soon.php?sid=' and (text() = ' Up Coming' or . = ' Up Coming')]</value>
+      <webElementGuid>c61cf20c-9ad6-4124-bfb1-8190c8838459</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

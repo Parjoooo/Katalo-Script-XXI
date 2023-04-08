@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_AMBARRUKMO  XXI</name>
+   <tag></tag>
+   <elementGuidId>6c6b096f-1e35-4f7c-9ea0-60ea475f1caa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.all > li.list-group-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ini']/div[3]/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>156abecd-a732-4e0c-8cae-4301a5454b23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item</value>
+      <webElementGuid>5ac32d54-1479-49ce-b00e-1943cd0be369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                            AMBARRUKMO  XXI                        </value>
+      <webElementGuid>2d827b86-b96e-4cc6-b46b-ad8c02b0038f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ini&quot;)/div[@class=&quot;all&quot;]/li[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>7f8aa33f-660e-4df5-93b1-51a9cc7ae4df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ini']/div[3]/li</value>
+      <webElementGuid>0719baa3-b7da-4107-96b4-e400ed61071c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JOGJA CITY PREMIERE'])[1]/following::li[1]</value>
+      <webElementGuid>2774d349-6b47-4fa8-894e-9f366c00d222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMPIRE PREMIERE'])[1]/following::li[2]</value>
+      <webElementGuid>b970ee60-97ae-4a8e-bb95-aa1855a45d9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMPIRE XXI'])[1]/preceding::li[1]</value>
+      <webElementGuid>310d1dbc-3553-4be2-855d-59fc9741f046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/li</value>
+      <webElementGuid>491c32c2-3103-47f8-866c-39e7d51d205b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '                            AMBARRUKMO  XXI                        ' or . = '                            AMBARRUKMO  XXI                        ')]</value>
+      <webElementGuid>95036237-0235-4edc-8c79-d8459d01cd2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

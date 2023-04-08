@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AMBARRUKMO  XXI</name>
+   <tag></tag>
+   <elementGuidId>058005f8-c734-476c-82b3-b15dfaa7424d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.all > li.list-group-item > #id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='id'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3fb17123-e4f9-4191-971b-9b70ccf03995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id</value>
+      <webElementGuid>ff438d7a-dc02-4228-9fd8-684e60494ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>location.href='gui.schedule.php?sid=&amp;find_by=1&amp;cinema_id=YGYSTUD&amp;movie_id=';</value>
+      <webElementGuid>59226c35-6803-44ee-94cc-be3ccaa94bb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AMBARRUKMO  XXI</value>
+      <webElementGuid>48bef300-a4cb-4658-8215-ca8a6a5f7287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ini&quot;)/div[@class=&quot;all&quot;]/li[@class=&quot;list-group-item&quot;]/div[@id=&quot;id&quot;]</value>
+      <webElementGuid>e966ff06-4d33-4529-bed9-6be84f68ecaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='id'])[4]</value>
+      <webElementGuid>4ff2c9c3-12c4-498a-9ea2-f6a6accb4d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ini']/div[3]/li/div</value>
+      <webElementGuid>e5af3289-a00d-496b-bc44-e9b456bc3ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JOGJA CITY PREMIERE'])[1]/following::div[2]</value>
+      <webElementGuid>fb7b92b1-a2de-4c24-998d-fa03b7961fbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMPIRE PREMIERE'])[1]/following::div[3]</value>
+      <webElementGuid>e0101bc4-8706-4158-a09b-dce79775ffe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMPIRE XXI'])[1]/preceding::div[1]</value>
+      <webElementGuid>6315c0bd-1984-4862-8526-c2a755069030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JOGJA CITY XXI'])[1]/preceding::div[2]</value>
+      <webElementGuid>f06f1f94-6f34-4d8c-852b-414918e2cbdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/li/div</value>
+      <webElementGuid>037b12a7-273e-465a-9dfc-7488443f8569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'id' and (text() = 'AMBARRUKMO  XXI' or . = 'AMBARRUKMO  XXI')]</value>
+      <webElementGuid>59d6d4af-279a-4d9c-a70f-8a4e91eccf8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

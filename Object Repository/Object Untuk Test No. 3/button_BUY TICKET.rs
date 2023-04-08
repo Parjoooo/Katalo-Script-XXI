@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_BUY TICKET</name>
+   <tag></tag>
+   <elementGuidId>64749616-0a7f-41be-911f-548996b43fd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'buy' and (text() = ' BUY TICKET ' or . = ' BUY TICKET ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#buy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='buy']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>04e264c0-86ec-4856-95e5-187c06800d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>location.href = 'gui.schedule.php?sid=&amp;find_by=2&amp;movie_id=13SDIO';</value>
+      <webElementGuid>5582d561-8e8b-48e9-b420-76aa82e70a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn icon-btn btn-success</value>
+      <webElementGuid>e63cf68c-6d49-4f86-8527-c5370bee6dfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>buy</value>
+      <webElementGuid>5153af03-630d-4c4a-84d5-7e778a5643c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> BUY TICKET </value>
+      <webElementGuid>0529f4c1-3216-4ac5-864b-0bcc60c80a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buy&quot;)</value>
+      <webElementGuid>95180b97-30cc-4d44-8678-465152c16fa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='buy']</value>
+      <webElementGuid>95262a8b-b53e-4789-93be-16861c161c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PLAYING AT'])[1]/following::button[1]</value>
+      <webElementGuid>eff5cda8-2319-4743-becc-29dc5c1bce01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Horror'])[1]/following::button[2]</value>
+      <webElementGuid>9ffb0713-09e3-4935-aecc-ca1d1c01069b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRAILER'])[1]/preceding::button[1]</value>
+      <webElementGuid>7584fffb-bced-4ff0-ad28-49a4c87b3c01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read more'])[1]/preceding::button[2]</value>
+      <webElementGuid>cf1f4159-0f91-4914-af8f-367473c0c21a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BUY TICKET']/parent::*</value>
+      <webElementGuid>ec9e44d9-cfad-459f-b1c2-b67282ff4673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[4]/button</value>
+      <webElementGuid>d6bbd03e-ea59-4c70-9e09-e081553ef5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'buy' and (text() = ' BUY TICKET ' or . = ' BUY TICKET ')]</value>
+      <webElementGuid>36ce9a36-b16f-46bd-811b-aa4e01d73a37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

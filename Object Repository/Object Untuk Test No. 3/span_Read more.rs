@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Read more</name>
+   <tag></tag>
+   <elementGuidId>55599620-a678-455d-b298-16fc66810779</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#readMore</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='readMore']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8294d418-935a-4199-9921-0f5724ff956d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>readMore</value>
+      <webElementGuid>8b36e8a4-cdd5-41bd-8ce2-3787c706fd5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read more</value>
+      <webElementGuid>c63578c6-3304-4334-a6f2-44c091531b55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;readMore&quot;)</value>
+      <webElementGuid>6985c625-db63-4f8c-9a08-a6882cdf3ca0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='readMore']</value>
+      <webElementGuid>12de229d-c230-47e0-b893-7cf50669f4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRAILER'])[1]/following::span[1]</value>
+      <webElementGuid>b90bf1bc-a085-4ff8-ad11-b5b4cd04ead1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUY TICKET'])[1]/following::span[1]</value>
+      <webElementGuid>84c983e5-10ce-40b0-8549-730612145a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Producer'])[1]/preceding::span[1]</value>
+      <webElementGuid>ec946950-6159-478f-95a3-f169cba2ef53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Director'])[1]/preceding::span[1]</value>
+      <webElementGuid>f4958816-6925-490c-9f09-d58abef28925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Read more']/parent::*</value>
+      <webElementGuid>e7f56c56-161c-420b-a4c4-ceba5b196ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>0a7fc91d-ba96-4490-8ca4-95933c71ceb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'readMore' and (text() = 'Read more' or . = 'Read more')]</value>
+      <webElementGuid>92729d54-4b9b-48fb-87ee-3a4e5215b645</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

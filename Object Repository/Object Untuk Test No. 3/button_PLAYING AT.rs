@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_PLAYING AT</name>
+   <tag></tag>
+   <elementGuidId>a209ff6d-2c7a-45df-9d94-dcac86de246d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'play' and (text() = ' PLAYING AT ' or . = ' PLAYING AT ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#play</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='play']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>66c5bd13-6733-4c8c-884b-7d9f8b1561ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>location.href = 'gui.list_theater.php?sid=&amp;find_by=3&amp;movie_id=13SDIO';</value>
+      <webElementGuid>755505bb-c918-423f-83f3-a91555afa53e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn icon-btn btn-success</value>
+      <webElementGuid>7c28b8a3-7af1-4d60-bce1-f97c0d12f6d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>play</value>
+      <webElementGuid>1e150fac-aba7-4c80-858f-ad66fde0b3f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> PLAYING AT </value>
+      <webElementGuid>750cf713-561f-46b0-8c17-dd7017400201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;play&quot;)</value>
+      <webElementGuid>8ad8189a-efb0-43dc-b8ec-56d8454b67db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='play']</value>
+      <webElementGuid>99e5424c-b07c-462d-ba0d-cefdac1efb0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Horror'])[1]/following::button[1]</value>
+      <webElementGuid>3c9499c8-9b45-4bda-a45d-f5c17f623efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEWU DINO'])[1]/following::button[1]</value>
+      <webElementGuid>f13883be-30d4-4abc-b2c6-95453f43a562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUY TICKET'])[1]/preceding::button[1]</value>
+      <webElementGuid>d8334459-47a6-412e-b627-ced4b40687e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRAILER'])[1]/preceding::button[2]</value>
+      <webElementGuid>848348cc-ac34-4d3d-b40d-c22024bd47b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PLAYING AT']/parent::*</value>
+      <webElementGuid>d9a48cd5-e3fb-4b6d-918d-5b6e87160bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/button</value>
+      <webElementGuid>3e59d7a4-d989-4add-b412-ccb82410c327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'play' and (text() = ' PLAYING AT ' or . = ' PLAYING AT ')]</value>
+      <webElementGuid>498756cf-e985-40e4-a3d3-9ce73da10d7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

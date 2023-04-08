@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_SLEMAN CITY HALL XXI</name>
+   <tag></tag>
+   <elementGuidId>232464e4-eb99-4837-8c42-158a6b602ed7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ini']/div[3]/li[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2a6d5f81-d0bf-44aa-b151-2315aaa38b07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item</value>
+      <webElementGuid>b118796d-eb67-49d1-ac6c-d884a755a887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                            SLEMAN CITY HALL XXI                        </value>
+      <webElementGuid>dbc0bdf7-1e28-4681-aad3-b2e171af2435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ini&quot;)/div[@class=&quot;all&quot;]/li[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>0ec085be-2af3-48c4-9e70-b004682fa8e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ini']/div[3]/li[4]</value>
+      <webElementGuid>1303f127-4a54-4f74-9bd5-a543398a4490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JOGJA CITY XXI'])[1]/following::li[1]</value>
+      <webElementGuid>76ef77f4-f3e4-4367-84c5-dee5f4296522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMPIRE XXI'])[1]/following::li[2]</value>
+      <webElementGuid>0210e74d-027d-44c1-a38e-8acca078c6e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/li[4]</value>
+      <webElementGuid>a1c858d8-0ab8-4a5a-8e98-ffd06496214d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '                            SLEMAN CITY HALL XXI                        ' or . = '                            SLEMAN CITY HALL XXI                        ')]</value>
+      <webElementGuid>3454ef8f-e8e1-4cde-b88c-dff97f24ae53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

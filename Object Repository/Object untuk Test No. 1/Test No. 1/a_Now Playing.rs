@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Now Playing</name>
+   <tag></tag>
+   <elementGuidId>bbed4b1a-1752-4bdb-965e-efbf8b440694</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.nav.navbar-nav.navbar-left > li.nav_bar-animate > a.nav_bar-animate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu_nav_bar']/ul[2]/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4a041580-3db3-4f61-bbe9-6b691cb48cf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?sid=</value>
+      <webElementGuid>dd8bca70-4a82-4aa5-bcdb-d0985b658656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav_bar-animate</value>
+      <webElementGuid>9aa6b9ac-b098-4e08-883d-9e20bd20946e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Now Playing</value>
+      <webElementGuid>59a3ea6d-a249-4d8e-8169-5a224417e8fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_nav_bar&quot;)/ul[@class=&quot;nav navbar-nav navbar-left&quot;]/li[@class=&quot;nav_bar-animate&quot;]/a[@class=&quot;nav_bar-animate&quot;]</value>
+      <webElementGuid>ac8c8749-6373-4155-b3c3-3fd52fa368da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu_nav_bar']/ul[2]/li/a</value>
+      <webElementGuid>84721561-44ed-48e2-b7be-3a75da26288a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Now Playing')]</value>
+      <webElementGuid>30b17e7e-0479-4a0e-bad5-ad4392f6f77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'index.php?sid=')]</value>
+      <webElementGuid>12977dac-267d-4589-988f-581e0a1ef57f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/a</value>
+      <webElementGuid>414bf9ba-4033-40b8-9090-e8bc9cec8903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?sid=' and (text() = ' Now Playing' or . = ' Now Playing')]</value>
+      <webElementGuid>d550515f-cbf1-4dd2-a642-85799e531c67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
